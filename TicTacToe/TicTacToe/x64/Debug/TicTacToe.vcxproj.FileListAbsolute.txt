@@ -1,0 +1,4 @@
+C:\Users\barte\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.AssemblyReference.cache
+C:\Users\barte\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.MyForm.resources
+C:\Users\barte\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.vcxproj.GenerateResource.cache
+C:\Users\barte\source\repos\TicTacToe\TicTacToe\x64\Debug\TicTacToe.MyForm1.resources
